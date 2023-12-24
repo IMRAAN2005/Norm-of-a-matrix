@@ -42,21 +42,15 @@ print(norm)
 ```
 ## Output:
 ### 1-Norm of a Matrix
-<br>
-<br>
-<br>
+
 ![image](https://github.com/IMRAAN2005/Norm-of-a-matrix/assets/149347407/a3a01428-bdef-4195-b43a-463ff10d374e)
 
 ### 2-Norm of a Matrix
-<br>
-<br>
-<br>
+
 ![image](https://github.com/IMRAAN2005/Norm-of-a-matrix/assets/149347407/84018746-e844-477a-a183-e51591a57e78)
 
 ### Infinity Norm of a Matrix
-<br>
-<br>
-<br>
+
 ![image](https://github.com/IMRAAN2005/Norm-of-a-matrix/assets/149347407/1a6a4048-0b52-4df7-9a9a-9109b0661545)
 
 ## Result
